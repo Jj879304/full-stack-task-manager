@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: Arial,
+    sans-serif;
+  background: #f3f4f6;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow:
+    0 4px 15px
+    rgba(
+      0,
+      0,
+      0,
+      0.1
+    );
+}
+
+h1 {
+  text-align: center;
+  color: #222;
+}
+
+.input-group {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid
+    #ccc;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+button {
+  border: none;
+  padding: 10px 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  transition:
+    transform 0.2s;
+}
+
+button:hover {
+  transform:
+    scale(1.03);
+}
+
+.add-btn {
+  background: #22c55e;
+  color: white;
+}
+
+.complete-btn {
+  background: #10b981;
+  color: white;
+}
+
+.edit-btn {
+  background: #3b82f6;
+  color: white;
+}
+
+.delete-btn {
+  background: #ef4444;
+  color: white;
+}
+
+.task-item {
+  display: flex;
+  justify-content:
+    space-between;
+  align-items: center;
+  padding: 15px;
+  margin-top: 12px;
+  border-radius: 12px;
+  background: #f9fafb;
+}
+
+.task-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.empty-message {
+  text-align: center;
+  color: gray;
+  margin-top: 30px;
+}

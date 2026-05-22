@@ -28,15 +28,15 @@ Helps users manage tasks, track progress, and stay organized.
 
 ### 🏠 Dashboard
 
-![Dashboard](frontend/src/assets/dashboard (2).png)
+![Dashboard](assets/dashboard (2).png)
 
 ### ➕ Add Task
 
-![add Task](frontend/src/assets/add-task.png)
+![add Task](assets/add-task.png)
 
 ### ✅ Task List
 
-![task List](frontend/src/assets/task-list.png)
+![task List](assets/task-list.png)
 
 ## 📚 What I Learned
 

@@ -32,11 +32,11 @@ Helps users manage tasks, track progress, and stay organized.
 
 ### ➕ Add Task
 
-![add Task](assets/add-task.png)
+![Add Task](assets/add-task.png)
 
 ### ✅ Task List
 
-![task List](assets/task-list.png)
+![Task List](assets/task-list.png)
 
 ## 📚 What I Learned
 

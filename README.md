@@ -28,7 +28,7 @@ Helps users manage tasks, track progress, and stay organized.
 
 ### 🏠 Dashboard
 
-![Dashboard](frontend/src/assets/dashboard.png)
+![Dashboard(2)](frontend/src/assets/Dashboard(2).png)
 
 ### ➕ Add Task
 

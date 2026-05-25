@@ -50,4 +50,5 @@ This project helped me practice:
 
 ## 👨‍💻 Author
 
-James Snethemba Ntshingila\
+James Snethemba Ntshingila                                                                                                                                                                                                
+Email: jj6507544@gmail.com                                                                                                                                                                                         Contacts: 0683513638                                                                                                                                                                                               GitHub: https://github.com/Jj879304
